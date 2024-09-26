@@ -11,5 +11,6 @@ public class ShoppingList {
         System.out.println("-------------------");
         System.out.println("Apples");
         System.out.println("Olives");
+        System.out.println("Pineapples");
     }
 }
